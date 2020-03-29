@@ -79,7 +79,7 @@ def adding_matz
         :dennis_ritchie => {
           :known_for => "Unix",
           :languages => ["C"]
-        }
+        },
         :yukihiro_matsumoto =>{
           :known_for => "Ruby",
           :languages => ["LISP", "C"]
@@ -88,7 +88,7 @@ def adding_matz
 
 
   programmer_hash[:alan_kay][:known_for] = "GUI"
-  
+
 end
 
 def changing_alan
