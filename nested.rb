@@ -73,7 +73,7 @@ def adding_matz
           :languages => ["COBOL", "FORTRAN"]
         },
         :alan_kay => {
-          :known_for => "GUI",
+          :known_for => "Object Orientation",
           :languages => ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
@@ -81,7 +81,8 @@ def adding_matz
           :languages => ["C"]
         },
         :yukihiro_matsumoto =>{
-
+          :known_for => "Ruby",
+          :languages => ["LISP", "C"]
         }
      }
 
