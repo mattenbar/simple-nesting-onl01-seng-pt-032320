@@ -77,7 +77,7 @@ def adding_matz
           :languages => ["COBOL", "FORTRAN"]
         },
         :alan_kay => {
-          :known_for => "Object Orientation",
+          :known_for => "GUI",
           :languages => ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
@@ -87,7 +87,7 @@ def adding_matz
     }
 
 
-  programmer_hash[:alan_kay][:known_for] = "GUI"
+
 
 end
 
